@@ -1,1 +1,3 @@
-*.html
+*.log
+!from_branch1.log
+test[1-3].html
